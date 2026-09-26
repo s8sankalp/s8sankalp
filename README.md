@@ -111,13 +111,7 @@ Merged PR [#689](https://github.com/apache/commons-collections/pull/689) resolvi
 
 ---
 
-### 🏙️ 3D Shinobi Isometric Skyline (Contribution Activity)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/s8sankalp/s8sankalp/main/profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D Contribution Skyline"/>
-</p>
-
----
 
 ### 📊 Battle Records & Streak Statistics
 
