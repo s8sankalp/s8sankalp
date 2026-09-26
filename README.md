@@ -1,8 +1,8 @@
 <!-- ================================================================= -->
-<!-- HEADER BANNER: Naruto (Kurama Flame) meets Sasuke (Chidori/Susano'o) Clash -->
+<!-- ANIMATED SHINOBI HERO BANNER (Rasengan x Chidori x Sakura Drift)  -->
 <!-- ================================================================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b00,35:e52d27,65:7928ca,100:00b4d8&height=220&section=header&text=Sankalp%20Suman&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=%E2%9A%A1%20Backend%20Engineer%20%E2%80%A2%20Java%20%E2%80%A2%20Spring%20Boot%20%E2%80%A2%20Distributed%20Systems&descSize=18&descAlignY=60" width="100%"/>
+  <img src="./assets/shinobi-banner.svg" width="100%" alt="Sankalp Suman Shinobi Banner"/>
 </p>
 
 <!-- ================================================================= -->
@@ -25,7 +25,9 @@
   <img src="https://komarev.com/ghpvc/?username=s8sankalp&style=for-the-badge&color=00B4D8&label=Profile+Views"/>
 </p>
 
----
+<p align="center">
+  <img src="./assets/sharingan-divider.svg" width="100%" alt="Sharingan Divider"/>
+</p>
 
 ### 🥷 Shinobi Character Sheet
 
@@ -41,17 +43,14 @@ public class SankalpSuman {
 }
 ```
 
-<div align="center">
+<!-- Animated Vector Chakra & System Gauges -->
+<p align="center">
+  <img src="./assets/chakra-gauges.svg" width="100%" alt="Chakra & System Resilience Gauges"/>
+</p>
 
-| Attribute | Level / Bar | Status |
-|:---|:---|:---|
-| **HP (API Resilience)** | `████████████████████` 100% | Zero-downtime, fault-tolerant architectures |
-| **Chakra (Throughput)** | `████████████████████` 100% | High-concurrency caching & streaming |
-| **Battle Rank** | `████████████████░░░░` Top 4% | LeetCode Knight &bull; 640+ Challenges Conquered |
-
-</div>
-
----
+<p align="center">
+  <img src="./assets/sharingan-divider.svg" width="100%" alt="Sharingan Divider"/>
+</p>
 
 ### ⚔️ S-Rank & A-Rank Missions (Featured Work)
 
@@ -94,7 +93,9 @@ Merged PR [#689](https://github.com/apache/commons-collections/pull/689) resolvi
 </tr>
 </table>
 
----
+<p align="center">
+  <img src="./assets/sharingan-divider.svg" width="100%" alt="Sharingan Divider"/>
+</p>
 
 ### 💼 Shinobi Experience
 
@@ -127,7 +128,9 @@ Merged PR [#689](https://github.com/apache/commons-collections/pull/689) resolvi
   <img src="https://leetcard.jacoblin.cool/s_8sankalp?theme=dark&font=Fira%20Code&ext=contest" />
 </p>
 
----
+<p align="center">
+  <img src="./assets/sharingan-divider.svg" width="100%" alt="Sharingan Divider"/>
+</p>
 
 ### 🐍 Shinobi Contribution Grid: Naruto vs Sasuke
 

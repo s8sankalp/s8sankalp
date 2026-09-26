@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 135" width="100%" height="135">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#161b22"/>
+    </linearGradient>
+
+    <!-- Cyan Shimmer (Rasengan / Resilience) -->
+    <linearGradient id="cyanShimmer" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00b4d8"/>
+      <stop offset="50%" stop-color="#90e0ef"/>
+      <stop offset="100%" stop-color="#0077b6"/>
+      <animate attributeName="x1" values="-100%;100%" dur="2.5s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="0%;200%" dur="2.5s" repeatCount="indefinite"/>
+    </linearGradient>
+
+    <!-- Purple Shimmer (Chidori / Throughput) -->
+    <linearGradient id="purpleShimmer" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7928ca"/>
+      <stop offset="50%" stop-color="#c084fc"/>
+      <stop offset="100%" stop-color="#4c1d95"/>
+      <animate attributeName="x1" values="-100%;100%" dur="2.5s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="0%;200%" dur="2.5s" repeatCount="indefinite"/>
+    </linearGradient>
+
+    <!-- Gold Shimmer (Knight / Battle Rating) -->
+    <linearGradient id="goldShimmer" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#f59e0b"/>
+      <stop offset="50%" stop-color="#fde68a"/>
+      <stop offset="100%" stop-color="#b45309"/>
+      <animate attributeName="x1" values="-100%;100%" dur="2.5s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="0%;200%" dur="2.5s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Container Box -->
+  <rect x="2" y="2" width="796" height="131" rx="8" fill="url(#bgGrad)" stroke="#30363d" stroke-width="1.5"/>
+
+  <!-- BAR 1: API Resilience (HP) -->
+  <g transform="translate(25, 25)">
+    <text x="0" y="0" fill="#c9d1d9" font-family="'Fira Code', monospace" font-size="12" font-weight="600">🛡️ SYSTEM RESILIENCE (Zero-Downtime Architecture)</text>
+    <text x="750" y="0" text-anchor="end" fill="#00b4d8" font-family="'Fira Code', monospace" font-size="12" font-weight="bold">100% [MAX]</text>
+    <!-- Track -->
+    <rect x="0" y="7" width="750" height="8" rx="4" fill="#21262d"/>
+    <!-- Fill -->
+    <rect x="0" y="7" width="750" height="8" rx="4" fill="url(#cyanShimmer)"/>
+  </g>
+
+  <!-- BAR 2: Chakra Throughput (MP) -->
+  <g transform="translate(25, 62)">
+    <text x="0" y="0" fill="#c9d1d9" font-family="'Fira Code', monospace" font-size="12" font-weight="600">⚡ CHAKRA THROUGHPUT (Kafka &amp; Redis Low-Latency Caching)</text>
+    <text x="750" y="0" text-anchor="end" fill="#c084fc" font-family="'Fira Code', monospace" font-size="12" font-weight="bold">100% [SURGE]</text>
+    <!-- Track -->
+    <rect x="0" y="7" width="750" height="8" rx="4" fill="#21262d"/>
+    <!-- Fill -->
+    <rect x="0" y="7" width="750" height="8" rx="4" fill="url(#purpleShimmer)"/>
+  </g>
+
+  <!-- BAR 3: Algorithmic Rank (LeetCode) -->
+  <g transform="translate(25, 99)">
+    <text x="0" y="0" fill="#c9d1d9" font-family="'Fira Code', monospace" font-size="12" font-weight="600">🏆 BATTLE RANK (LeetCode Knight Rating 1924 • 640+ Conquered)</text>
+    <text x="750" y="0" text-anchor="end" fill="#f59e0b" font-family="'Fira Code', monospace" font-size="12" font-weight="bold">TOP 4% [KNIGHT]</text>
+    <!-- Track -->
+    <rect x="0" y="7" width="750" height="8" rx="4" fill="#21262d"/>
+    <!-- Fill (96% width = 720) -->
+    <rect x="0" y="7" width="720" height="8" rx="4" fill="url(#goldShimmer)"/>
+  </g>
+</svg>

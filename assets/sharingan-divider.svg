@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 50" width="100%" height="50">
+  <defs>
+    <!-- Gradients for the divider lines -->
+    <linearGradient id="lineLeft" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff0033" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#ff0033" stop-opacity="0.8"/>
+    </linearGradient>
+    <linearGradient id="lineRight" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7928ca" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#00b4d8" stop-opacity="0"/>
+    </linearGradient>
+    <!-- Sharingan Red Iris Gradient -->
+    <radialGradient id="irisGrad" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ff1a40"/>
+      <stop offset="70%" stop-color="#c40024"/>
+      <stop offset="100%" stop-color="#6b0012"/>
+    </radialGradient>
+    <!-- Glow Filter -->
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Left Line (Naruto / Crimson) -->
+  <line x1="50" y1="25" x2="365" y2="25" stroke="url(#lineLeft)" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="365" cy="25" r="3" fill="#ff0033" filter="url(#glow)"/>
+
+  <!-- Right Line (Sasuke / Chidori Cyan-Purple) -->
+  <line x1="435" y1="25" x2="750" y2="25" stroke="url(#lineRight)" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="435" cy="25" r="3" fill="#00b4d8" filter="url(#glow)"/>
+
+  <!-- Sharingan Eye Center -->
+  <g transform="translate(400, 25)">
+    <!-- Outer Glow Ring -->
+    <circle cx="0" cy="0" r="21" fill="none" stroke="#ff0033" stroke-width="1.5" opacity="0.6" filter="url(#glow)"/>
+    <circle cx="0" cy="0" r="18" fill="url(#irisGrad)" stroke="#111" stroke-width="1.5"/>
+
+    <!-- Tomoe Ring (Spinning) -->
+    <circle cx="0" cy="0" r="11" fill="none" stroke="#220006" stroke-width="0.8" opacity="0.7"/>
+
+    <!-- Rotating Group for 3 Tomoe -->
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="4s" repeatCount="indefinite"/>
+
+      <!-- Tomoe 1 (0 deg) -->
+      <g transform="rotate(0) translate(0, -11)">
+        <circle cx="0" cy="0" r="2.5" fill="#111"/>
+        <path d="M -2,0 C -2,-4 2,-3 2.5,-6 C 2.5,-3 0,-1 0,2 Z" fill="#111"/>
+      </g>
+
+      <!-- Tomoe 2 (120 deg) -->
+      <g transform="rotate(120) translate(0, -11)">
+        <circle cx="0" cy="0" r="2.5" fill="#111"/>
+        <path d="M -2,0 C -2,-4 2,-3 2.5,-6 C 2.5,-3 0,-1 0,2 Z" fill="#111"/>
+      </g>
+
+      <!-- Tomoe 3 (240 deg) -->
+      <g transform="rotate(240) translate(0, -11)">
+        <circle cx="0" cy="0" r="2.5" fill="#111"/>
+        <path d="M -2,0 C -2,-4 2,-3 2.5,-6 C 2.5,-3 0,-1 0,2 Z" fill="#111"/>
+      </g>
+    </g>
+
+    <!-- Center Pupil -->
+    <circle cx="0" cy="0" r="3.5" fill="#111"/>
+  </g>
+</svg>
