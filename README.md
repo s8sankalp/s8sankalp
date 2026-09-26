@@ -2,7 +2,10 @@
 <!-- 🌌 CINEMATIC ANIME DEVELOPER HERO BANNER                          -->
 <!-- ================================================================= -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/s8sankalp/s8sankalp/main/assets/hero-banner.jpg" width="100%" style="border-radius: 12px; box-shadow: 0 12px 32px rgba(0, 229, 255, 0.15);" alt="Sankalp Suman Anime Developer Banner"/>
+  <picture>
+    <source type="image/webp" srcset="https://raw.githubusercontent.com/s8sankalp/s8sankalp/main/assets/hero-banner.webp" />
+    <img src="https://raw.githubusercontent.com/s8sankalp/s8sankalp/main/assets/hero-banner.gif" width="100%" style="border-radius: 12px; box-shadow: 0 12px 32px rgba(0, 229, 255, 0.15);" alt="Sankalp Suman Anime Developer Banner"/>
+  </picture>
 </p>
 
 <!-- ================================================================= -->
