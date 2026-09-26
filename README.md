@@ -20,7 +20,7 @@
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/sankalp-suman-55764327b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:sumansankalp02@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:sankalpsuman08@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://leetcode.com/u/s_8sankalp/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 <img src="https://komarev.com/ghpvc/?username=s8sankalp&style=for-the-badge&color=00E5FF&label=Profile+Views"/>
 
@@ -272,14 +272,14 @@ Merged PR [#689](https://github.com/apache/commons-collections/pull/689) fixing 
 ```text
 ┌─── TRANSMISSION FREQUENCIES ─────────────────────────────────────────────┐
 │  LINKEDIN:  linkedin.com/in/sankalp-suman-55764327b                      │
-│  EMAIL:     sumansankalp02@gmail.com                                     │
+│  EMAIL:     sankalpsuman08@gmail.com                                     │
 │  LEETCODE:  leetcode.com/u/s_8sankalp                                    │
 │  GITHUB:    github.com/s8sankalp                                         │
 └──────────────────────────────────────────────────────────────────────────┘
 ```
 
 <a href="https://www.linkedin.com/in/sankalp-suman-55764327b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:sumansankalp02@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:sankalpsuman08@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://leetcode.com/u/s_8sankalp/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 
 </div>
