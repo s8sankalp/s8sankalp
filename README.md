@@ -81,7 +81,6 @@ Merged PR [#689](https://github.com/apache/commons-collections/pull/689) fixing 
 
 | Role | Company | When |
 |:--|:--|:--|
-| Java Backend Developer Intern | Codebucket Solutions | June 2026 |
 | Associate Intern (API caching and optimization) | Arkgenix Softech | Apr to May 2024 |
 
 ### 🏆 Highlights
