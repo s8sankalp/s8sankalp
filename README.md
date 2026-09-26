@@ -1,8 +1,8 @@
 <!-- ================================================================= -->
-<!-- ANIMATED SHINOBI HERO BANNER (Rasengan x Chidori x Sakura Drift)  -->
+<!-- GUARANTEED VISIBLE HERO BANNER: Naruto x Sasuke Clash Wave        -->
 <!-- ================================================================= -->
 <p align="center">
-  <img src="./assets/shinobi-banner.svg" width="100%" alt="Sankalp Suman Shinobi Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b00,35:e52d27,65:7928ca,100:00b4d8&height=220&section=header&text=Sankalp%20Suman&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=%E2%9A%A1%20Backend%20Engineer%20%E2%80%A2%20Java%20%E2%80%A2%20Spring%20Boot%20%E2%80%A2%20Distributed%20Systems&descSize=18&descAlignY=60" width="100%" alt="Sankalp Suman Header"/>
 </p>
 
 <!-- ================================================================= -->
@@ -25,9 +25,7 @@
   <img src="https://komarev.com/ghpvc/?username=s8sankalp&style=for-the-badge&color=00B4D8&label=Profile+Views"/>
 </p>
 
-<p align="center">
-  <img src="./assets/sharingan-divider.svg" width="100%" alt="Sharingan Divider"/>
-</p>
+---
 
 ### 🥷 Shinobi Character Sheet
 
@@ -45,12 +43,10 @@ public class SankalpSuman {
 
 <!-- Animated Vector Chakra & System Gauges -->
 <p align="center">
-  <img src="./assets/chakra-gauges.svg" width="100%" alt="Chakra & System Resilience Gauges"/>
+  <img src="https://raw.githubusercontent.com/s8sankalp/s8sankalp/main/assets/chakra-gauges.svg" width="100%" alt="Chakra & System Resilience Gauges"/>
 </p>
 
-<p align="center">
-  <img src="./assets/sharingan-divider.svg" width="100%" alt="Sharingan Divider"/>
-</p>
+---
 
 ### ⚔️ S-Rank & A-Rank Missions (Featured Work)
 
@@ -93,9 +89,7 @@ Merged PR [#689](https://github.com/apache/commons-collections/pull/689) resolvi
 </tr>
 </table>
 
-<p align="center">
-  <img src="./assets/sharingan-divider.svg" width="100%" alt="Sharingan Divider"/>
-</p>
+---
 
 ### 💼 Shinobi Experience
 
@@ -117,32 +111,22 @@ Merged PR [#689](https://github.com/apache/commons-collections/pull/689) resolvi
 
 ---
 
-### 📊 Battle Records & Statistics
+### 🏙️ 3D Shinobi Isometric Skyline (Contribution Activity)
 
 <p align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=s8sankalp&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="175" src="https://streak-stats.demolab.com?user=s8sankalp&theme=tokyonight&hide_border=true"/>
+  <img src="https://raw.githubusercontent.com/s8sankalp/s8sankalp/main/profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D Contribution Skyline"/>
+</p>
+
+---
+
+### 📊 Battle Records & Streak Statistics
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=s8sankalp&theme=tokyonight&hide_border=true" height="185" alt="Streak Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/s_8sankalp?theme=dark&font=Fira%20Code&ext=contest" />
-</p>
-
-<p align="center">
-  <img src="./assets/sharingan-divider.svg" width="100%" alt="Sharingan Divider"/>
-</p>
-
-### 🐍 Shinobi Contribution Grid: Naruto vs Sasuke
-
-<p align="center">
-  <em>☀️ <b>Light Mode</b>: Naruto's Kurama Flame Orange &bull; 🌙 <b>Dark Mode</b>: Sasuke's Susano'o Violet & Chidori Lightning</em>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/s8sankalp/s8sankalp/output/github-snake-dark.svg" />
-    <img alt="Naruto & Sasuke Contribution Snake" src="https://raw.githubusercontent.com/s8sankalp/s8sankalp/output/github-snake.svg" />
-  </picture>
+  <img src="https://leetcard.jacoblin.cool/s_8sankalp?theme=dark&font=Fira%20Code&ext=contest" alt="LeetCode Card"/>
 </p>
 
 <!-- ================================================================= -->
